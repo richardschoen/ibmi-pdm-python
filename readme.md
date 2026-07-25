@@ -9,12 +9,10 @@ Textual library to create a PASE app with a user interface.
 https://github.com/richardschoen/howtostuff/blob/master/install-python-ibmivirtual-environment.md
 - For this example we'll assume we've already created a Python virtual environment in directory: 
 ```/pythonenv313```
-- Activate virtual environment
+- Activate virtual environment    
 ```source /pythonenv313/bin/activate```
-- Install pip requirement 
-```
-pip3.13 install textual   
-```  
+- Install pip requirement   
+```pip3.13 install textual```  
 -
 - 
 
