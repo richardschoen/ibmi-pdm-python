@@ -31,7 +31,7 @@ A base Python/Textual application intended to run in **IBM i PASE**.
 ## Features
 
 - Enter an IBM i library and source physical file.
-- Press `F5` to refresh the list, assuming your ODBC driver is working as expected.
+- Press `F5` to refresh the list. Assuming your ODBC driver is working as expected the source list should display.
 - Lists source member, source type, and member text from `QSYS2.SYSPARTITIONSTAT`.
 - Select a row and enter:
   - `E` to edit
