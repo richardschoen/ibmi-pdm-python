@@ -6,7 +6,8 @@
 # -Python 3.13 (May work with 3.9 but have not tested.)
 # -Virtual environment that copies all Python packages. pyodbc is 
 # part of the base packages for IBM i.
-# -textual - pip3.13 install textual
+# -Install textual - pip3.13 install textual  
+# -Install ibmi-access ODBC - pip3.13 install ibm-iaccess   
 # Links:
 # https://textual.textualize.io
 #-------------------------------------------------------------------
