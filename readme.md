@@ -23,7 +23,7 @@ https://github.com/richardschoen/howtostuff/blob/master/install-python-ibmivirtu
 ```pip3.13 install ibmi-access```   
 - Install pip requirement   
 ```pip3.13 install textual```   
-- Run the app: ```pdmpython.sh```    
+- Run the app: ```pdmpython.sh```.  You may need to tweak this runtime script with your own Python virtual environment name if you didn't use ```/pythonenv313```
 
 ## ChatGPT Prompts I used
 I ended up doing two alterations on this app via prompt: 
