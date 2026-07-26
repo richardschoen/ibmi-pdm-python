@@ -1,4 +1,4 @@
-# Vibe Coded Python PDF Replacement Proof of Concept
+# Vibe Coded Python PDM Replacement Proof of Concept
 I was doing some self education and playing around with ChatGpt and also Textual in Python, which is a text based terminal GUI (TUI) layer.
 I wanted to see if I could use ChatGpt to create an SSH terminal based UI as a replacement for PDM while also testing the
 Textual library to create a PASE app with a user interface.   
