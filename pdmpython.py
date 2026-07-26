@@ -113,7 +113,7 @@ class IbmiService:
     def run_cl(self, command: str) -> str:
         """Run a CL command through the IBM i PASE system utility."""
         process = subprocess.run(
-            ["/QOpenSys/usr/bin/system", "-i", command],
+            ["/QOpenSys/usr/bin/system", "", command],
             text=True,
             stdout=subprocess.PIPE,
             stderr=subprocess.STDOUT,
