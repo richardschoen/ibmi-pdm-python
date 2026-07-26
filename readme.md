@@ -6,6 +6,8 @@ Textual library to create a PASE app with a user interface.
 The result is this starter Python app that runs in PASE.
 
 It is not a complete app, but an illustration of the art of the possible for a text based PASE UI app.
+
+It is actually quite useful already for doing quick source edits and compiles from PASE if you don't have access to the IBM 5770WDS tools on a machine.
  
 <img width="981" height="614" alt="image" src="https://github.com/user-attachments/assets/79d550d3-824f-4afe-9dcc-bdc08639a26b" />
 
